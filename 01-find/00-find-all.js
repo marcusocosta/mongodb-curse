@@ -1,4 +1,4 @@
-//Example get all documents in mongodb
+//Busca todos os registros da coleção peoples
 
 var where = {};
 

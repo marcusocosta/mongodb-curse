@@ -1,4 +1,4 @@
-//Example get by field regex documents in mongodb
+//Busca os registros da coleção people utilizando uma expressão regular
 
 var where = {name : {$regex :/marcus/i}};
 

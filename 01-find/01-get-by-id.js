@@ -1,4 +1,4 @@
-//Example get by id documents in mongodb
+//Busca por id os registros da coleção people
 
 var where = {_id : id};
 
