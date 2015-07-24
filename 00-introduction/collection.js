@@ -1,7 +1,7 @@
 var peoples = [
 		{
 				name: 'Marcus',
-				age: '29',
+				age: 29,
 				address: {
 						street: 'Av. Marte',
 						number: '22',
@@ -12,7 +12,7 @@ var peoples = [
 		},
 		{
 				name: 'Juca chaves',
-				age: '30',
+				age: 30,
 				address: {
 						street: 'Av. Panamá',
 						number: '233',
@@ -23,7 +23,7 @@ var peoples = [
 		},
 		{
 				name: 'Maria Silva',
-				age: '18',
+				age: 18,
 				address: {
 						street: 'Av. Alamo',
 						number: '233',
@@ -34,7 +34,7 @@ var peoples = [
 		},
 		{
 				name: 'Bartolomeu Chaves',
-				age: '66',
+				age: 66,
 				address: {
 						street: 'Rua Pangaripe',
 						number: '233',
@@ -45,7 +45,7 @@ var peoples = [
 		},
 		{
 				name: 'Carla Pereira',
-				age: '44',
+				age: 44,
 				address: {
 						street: 'Rua Abílio Machado',
 						number: '2111',
@@ -56,7 +56,7 @@ var peoples = [
 		},
 		{
 				name: 'Carlos Alberto',
-				age: '434',
+				age: 43,
 				address: {
 						street: 'Rua Carmo de Cima',
 						number: '2111',
@@ -67,7 +67,7 @@ var peoples = [
 		},
 		{
 				name: 'Wantuil Chicre',
-				age: '434',
+				age: 54,
 				address: {
 						street: 'Rua Mangabuaba',
 						number: '21',
